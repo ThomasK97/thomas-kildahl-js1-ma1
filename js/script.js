@@ -63,6 +63,12 @@ resultsContainer.style.backgroundColor = "yellow";
 
 //exersise 7
 
+function listParameter(list1, list2, list3){
+    
+}
+
+console.log(listParameter)
+
 //ecersise 8
 
 
