@@ -67,7 +67,9 @@ function listParameter(list1, list2, list3){
     
 }
 
-console.log(listParameter)
+console.log(listParameter);
+
+
 
 //ecersise 8
 
